@@ -1,0 +1,389 @@
+{
+    "popup_header_cta_link": {
+        "message": "Blokiraj još?"
+    },
+    "name": {
+        "message": "AdGuard blokator reklama"
+    },
+    "adguard_product_windows": {
+        "message": "AdGuard za Windows"
+    },
+    "adguard_product_mac": {
+        "message": "AdGuard za Mac"
+    },
+    "options_whitelist": {
+        "message": "Bela lista"
+    },
+    "options_userfilter": {
+        "message": "Korisnički filter"
+    },
+    "filtering_log_in_whitelist": {
+        "message": "Stranica je postavljena na belu listu."
+    },
+    "options_antibanner": {
+        "message": "Blokator&nbsp;reklama"
+    },
+    "options_antibanner_info": {
+        "message": "Broj pravila filtera: $1"
+    },
+    "options_filter_version": {
+        "message": "Verzija $1. Ažurirano $2 u $3."
+    },
+    "popup_site_filtering_state": {
+        "message": "Zaštita na ovom sajtu"
+    },
+    "popup_site_filtering_disabled": {
+        "message": "AdGuard ne radi na&nbsp;ovom domenu."
+    },
+    "popup_site_exception": {
+        "message": "Ova stranica je&nbsp;u&nbsp; izuzecima"
+    },
+    "popup_site_exception_info": {
+        "message": "Filterisanje je&nbsp;isključeno, zato što&nbsp;može ometati rad ovih stranica."
+    },
+    "popup_tab_blocked": {
+        "message": "Blokirano: $1"
+    },
+    "popup_tab_blocked_all": {
+        "message": "ukupno: $1"
+    },
+    "sb_malware_site": {
+        "message": "Ova stranica na&nbsp;<strong>$1</strong>, je prijavljena kao&nbsp;a&nbsp;stranica sa virusima i blokirana je na osnovu&nbsp;vaših bezbednosnih postavki."
+    },
+    "sb_phishing_site": {
+        "message": "Ova stranica na&nbsp;<strong>$1</strong>, je prijavljena kao&nbsp;a&nbsp;fišing i blokirana je na osnovu&nbsp;vaših bezbednosnih postavki."
+    },
+    "thankyou_want_full_protection": {
+        "message": "Želite da probate&nbsp;isprobate potpunu zaštitu? Preuzmite Adguard za Windows!"
+    },
+    "thankyou_want_full_protection_mac": {
+        "message": "Želite da isprobate punu zaštitu? Isprobajte AdGuard za Mac!"
+    },
+    "thankyou_compare_full_title": {
+        "message": "AdGuard za Windows"
+    },
+    "thankyou_compare_full_title_mac": {
+        "message": "AdGuard za Mac"
+    },
+    "options_popup_update_not_found": {
+        "message": "Ažuriranja nisu pronađena."
+    },
+    "options_popup_update_error": {
+        "message": "Preuzimanje ažuriranja nije uspelo. Molimo vas da pokušate kasnije."
+    },
+    "popup_block_site_ads": {
+        "message": "Blokiraj reklamu&nbsp;na&nbsp;ovoj stranici"
+    },
+    "popup_security_report": {
+        "message": "Izveštaj o bezbednosti stranice"
+    },
+    "popup_open_settings": {
+        "message": "AdGuard postavke"
+    },
+    "popup_site_protection_disabled": {
+        "message": "AdGuard zaštita je pauzirana"
+    },
+    "popup_block_site_ads_android": {
+        "message": "Blokiraj reklame na stranici"
+    },
+    "popup_security_report_android": {
+        "message": "Izveštaj o bezbednosti"
+    },
+    "popup_in_white_list_android": {
+        "message": "Na beloj listi"
+    },
+    "popup_site_protection_disabled_android": {
+        "message": "Zaštita je pauzirana."
+    },
+    "popup_open_log_android": {
+        "message": "Dnevnik prečišćavanja"
+    },
+    "context_block_site_ads": {
+        "message": "Blokiraj reklamu na ovoj stranici..."
+    },
+    "context_block_site_element": {
+        "message": "Blokiraj Element..."
+    },
+    "context_security_report": {
+        "message": "Otvori izveštaj bezbednosti za ovu stranicu..."
+    },
+    "context_ads_has_been_removed": {
+        "message": "Reklame su uklonjene sa ove stranice."
+    },
+    "context_ads_has_been_removed_by_adguard": {
+        "message": "Zaštićen od $1"
+    },
+    "context_site_filtering_disabled": {
+        "message": "AdGuard ne može da radi na ovom domenu"
+    },
+    "context_disable_protection": {
+        "message": "Pauziraj AdGuard zaštitu"
+    },
+    "context_enable_protection": {
+        "message": "Nastavi AdGuard zaštitu"
+    },
+    "context_site_protection_disabled": {
+        "message": "AdGuard zaštita je pauzirana."
+    },
+    "context_open_settings": {
+        "message": "AdGuard postavke..."
+    },
+    "context_open_log": {
+        "message": "Dnevnik prečišćavanja..."
+    },
+    "context_site_exception": {
+        "message": "Ova stranica se nalazi u izuzecima."
+    },
+    "context_site_filtering_on": {
+        "message": "uključi filterisanje na ovoj stranici"
+    },
+    "context_site_filtering_off": {
+        "message": "Isključi filterisanje na ovoj stranici"
+    },
+    "context_update_antibanner_filters": {
+        "message": "Proveri da li postoje ažuriranja filtera"
+    },
+    "context_general_settings": {
+        "message": "Opšta podešavanja"
+    },
+    "context_antibanner": {
+        "message": "Blokator reklama"
+    },
+    "context_safebrowsing": {
+        "message": "Bezbednost pregledanja"
+    },
+    "context_whitelist": {
+        "message": "Bela lista"
+    },
+    "context_userfilter": {
+        "message": "Korisnički filter"
+    },
+    "context_miscellaneous_settings": {
+        "message": "Razno"
+    },
+    "alert_popup_filter_enabled_title": {
+        "message": "Automatsko uključivanje filtera"
+    },
+    "alert_popup_filter_enabled_text": {
+        "message": "«$1» je automatski aktiviran."
+    },
+    "filter_download_title": {
+        "message": "Baza isnbsp;loading...    "
+    },
+    "filter_download_loading": {
+        "message": "Molimo vas da sačekate dok se baza podataka filtera&nbsp;učitava..."
+    },
+    "filter_download_do_you_know": {
+        "message": "Jeste li znali?"
+    },
+    "filter_download_sb_sites": {
+        "message": "AdGuard baza podataka za fišing i viruse sadrži<br/>više od 1&nbsp;milion stranica."
+    },
+    "filter_download_rules": {
+        "message": "U&nbsp;proseku, mi&nbsp;dodajemo više od 100&nbsp;pravila za filterisanje reklama svake nedelje."
+    },
+    "filter_download_ads_malware": {
+        "message": "90%&nbsp;virusa i štetnog softvera se&nbsp;širi<br/>kroz nedolične mreže&nbsp;reklama."
+    },
+    "filtering_modal_important": {
+        "message": "Daj viši prioritet pravilu"
+    },
+    "filtering_log_title": {
+        "message": "Dnevnik prećišćavanja"
+    },
+    "filtering_log_tab": {
+        "message": "Kartica:"
+    },
+    "filtering_log_search_string": {
+        "message": "Unesite pojam za pretragu:"
+    },
+    "filtering_refresh_tab": {
+        "message": "Osveži stranicu"
+    },
+    "filtering_clear_tab_events": {
+        "message": "Očisti"
+    },
+    "filtering_type_all": {
+        "message": "Sve"
+    },
+    "filtering_table_type": {
+        "message": "Vrsta"
+    },
+    "filtering_table_rule": {
+        "message": "Pravilo filterisanja"
+    },
+    "filtering_table_source": {
+        "message": "Izvor"
+    },
+    "filtering_modal_info_title": {
+        "message": "Zahtevaj detalje"
+    },
+    "filtering_modal_type": {
+        "message": "Vrsta:"
+    },
+    "filtering_modal_source": {
+        "message": "Izvor:"
+    },
+    "filtering_modal_rule": {
+        "message": "Pravilo:"
+    },
+    "filtering_modal_block": {
+        "message": "Blokiraj"
+    },
+    "filtering_modal_unblock": {
+        "message": "Odblokiraj"
+    },
+    "filtering_modal_remove_user": {
+        "message": "ukloni iz korisničkog filtera"
+    },
+    "filtering_modal_remove_whitelist": {
+        "message": "Ukloni sa bele liste"
+    },
+    "filtering_modal_add_title": {
+        "message": "Dodavanje pravila"
+    },
+    "filtering_modal_rule_text": {
+        "message": "Tekst pravila"
+    },
+    "filtering_modal_patterns": {
+        "message": "Šabloni"
+    },
+    "filtering_modal_options": {
+        "message": "Opcije"
+    },
+    "filtering_modal_apply_domains": {
+        "message": "Primeni pravilo na sve stranice"
+    },
+    "filtering_modal_match_case": {
+        "message": "uzmi u obzir"
+    },
+    "filtering_modal_third_party": {
+        "message": "Primeni samo na zahteve treće strane"
+    },
+    "filtering_modal_add_rule": {
+        "message": "Dodaj pravilo"
+    },
+    "filtering_modal_exception_title": {
+        "message": "Dodavanje izuzetka"
+    },
+    "filtering_modal_open_in_new_tab": {
+        "message": "Otvori u novoj kartici"
+    },
+    "options_settings": {
+        "message": "AdGuard postavke"
+    },
+    "options_general_settings": {
+        "message": "Opšta podešavanja"
+    },
+    "options_allow_acceptable_ads": {
+        "message": "Dozvoli prihvatljive reklame<a target='_blank' href='https://kb.adguard.com/general/search-ads-and-self-promotion?utm_source=extension&aid=16593' class='sp-table-row-info'>Saznajte više&nbsp;it</a>"
+    },
+    "options_show_blocked_ads_count": {
+        "message": "Prikaži broj&nbsp;blokiranih reklama na&nbsp; ikonici AdGuard dodatka"
+    },
+    "options_enable_autodetect_filter": {
+        "message": "Automatski uključi najpogodnije filtere"
+    },
+    "options_update_antibanner_filters": {
+        "message": "Proveri da li postoje nadogradnje filtera"
+    },
+    "options_too_many_filters_selected": {
+        "message": "Izabrali ste previše filtera. To&nbsp;može poprilično usporiti vaše pretraživanje interneta."
+    },
+    "options_userfilter_export": {
+        "message": "Izvezi"
+    },
+    "options_userfilter_import": {
+        "message": "Uvezi"
+    },
+    "options_whitelist_description": {
+        "message": "AdGuard ne filteriše sajtove koji se nalaze na beloj listi."
+    },
+    "options_whitelist_inverse": {
+        "message": "Okreni belu listu<span class='sp-table-row-info'>Odblokirajte reklame svuda <i>izuzev</i> bele liste</span>"
+    },
+    "options_userfilter_description": {
+        "message": "Možete dodati vaša lična pravila na&nbsp;ovaj filter. Ova mogućnost se&nbsp;preporučuje naprednim korisnicima koji su upoznati sa HTML/CSS-om. Pročitajte <a class='spl-user-descr-link' href='https://adguard.com/filterrules.html?utm_source=extension&aid=16593' target='_blank'>uputstvo za pravila filtera</a>to&nbsp;i naučite kako da&nbsp;napišete vaša lična pravila filtera."
+    },
+    "options_open_changelog": {
+        "message": "Dnevnik promena"
+    },
+    "options_safebrowsing": {
+        "message": "Bezbednost pregledanja"
+    },
+    "options_safebrowsing_enabled": {
+        "message": "Zaštita od fišinga i štetnog softvera<a target='_blank' href='https://kb.adguard.com/general/how-malware-protection-works?utm_source=extension&aid=16593' class='sp-table-row-info'>Saznajte više&nbsp;o tome</a>"
+    },
+    "options_safebrowsing_help": {
+        "message": "Pomozite&nbsp;nam u&nbsp;razvoju filtera za bezbedonosno pregledanje<span class='sp-table-row-info'>pošaljite anonimne informacije o vezi  bezbednosti</span>"
+    },
+    "options_site": {
+        "message": "Zvanična stranica"
+    },
+    "options_do_you_like": {
+        "message": "Da&nbsp;li volite AdGuard?"
+    },
+    "options_footer_like_us": {
+        "message": "Ocenite&nbsp;ga!    "
+    },
+    "options_miscellaneous_settings": {
+        "message": "Razno"
+    },
+    "options_show_adguard_full_version": {
+        "message": "Prikaži informacije na&nbsp;AdGuard punoj verziji"
+    },
+    "options_open_log": {
+        "message": "Dnevnik prečišćavanja"
+    },
+    "options_reset_stats": {
+        "message": "Resetuj statistiku"
+    },
+    "options_reset_stats_done": {
+        "message": "Statistika je izbrisana."
+    },
+    "options_collect_hit_stats": {
+        "message": "Pošaljite statistiku korišćenja&nbsp;reklamnih filtera<a target='_blank' href='https://kb.adguard.com/general/filter-rules-statistics?utm_source=extension&aid=16593' class='sp-table-row-info'>Saznajte više&nbsp;it</a>"
+    },
+    "options_show_context_menu": {
+        "message": "Dodaj AdGuard stavku na&nbsp;kontekstni meni preglednika"
+    },
+    "options_use_optimized_filters": {
+        "message": "Koristi optimizovane filtere<span class='sp-table-row-info'>male liste filtera optimizovane za mobilne uređaje</span>"
+    },
+    "popup_abuse_site": {
+        "message": "Pošaljite&nbsp;žalbu u vezi&nbsp;ove stranice"
+    },
+    "popup_adguard_footer_integration": {
+        "message": "AdGuard <a href='http://adguard.com/adguard-adblock-browser-extension/integration-mode.html#integration-mode' class='openLink' target='_blank'>Ugrađeni način</a> je aktivan"
+    },
+    "sb_title": {
+        "message": "upozorenje! Could biti&nbsp;nesigurno!"
+    },
+    "sb_main_title": {
+        "message": "upozorenje! Could biti&nbsp;nesigurno!"
+    },
+    "sb_adguard_blocked": {
+        "message": "AdGuard je blokirao pristup&nbsp;ovoj stranici."
+    },
+    "sb_malware_description": {
+        "message": "AdGuard je otkrio da će se štetni softver možda&nbsp;instalirati na vašem računaru ako&nbsp;vi nastavite. Ako&nbsp;ste posećivali ovu stranicu&nbsp;the ranije ili&nbsp;imate poverenja u ovu stranicu,&nbsp;nbsp;moguće je da&nbsp;je nedavno kompromitovana od strane&nbsp;nbsp;hakera.&nbsp;Preporučujemo vam da&nbsp;ne nastavljate ili&nbsp;pokušate ponovo kasnije."
+    },
+    "sb_phishing_description": {
+        "message": "AdGuard je otkrio da ova stranica može biti&nbsp;nbsp;krivotvorena ili&nbsp;imitacija&nbsp;druge stranice, koja je napravljena kako bi&nbsp;naterala korisnike da podele lične ili&nbsp;finansijske informacije. Unošenjem bilo koje lične informacije na&nbsp;ovoj stranici može uzrokovati&nbsp;krađu identiteta ili&nbsp;drugu zloupotrebu."
+    },
+    "sb_go_back": {
+        "message": "Vrati se nazad"
+    },
+    "sb_site_report": {
+        "message": "Više informacija"
+    },
+    "sb_goto_site": {
+        "message": "Ipak nastavi"
+    },
+    "short_name": {
+        "message": "AdGuard blokator reklama"
+    },
+    "options_github": {
+        "message": "GitHub"
+    }
+}

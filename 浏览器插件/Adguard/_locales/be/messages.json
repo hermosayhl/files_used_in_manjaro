@@ -1,0 +1,401 @@
+{
+    "popup_header_cta_link": {
+        "message": "Хочаце заблакаваць больш?"
+    },
+    "name": {
+        "message": "AdGuard Антыбанар"
+    },
+    "background_tab_title": {
+        "message": "Фонавая ўкладка"
+    },
+    "adguard_product_windows": {
+        "message": "AdGuard для Windows"
+    },
+    "adguard_product_mac": {
+        "message": "AdGuard для Mac"
+    },
+    "options_whitelist": {
+        "message": "Белы спіс"
+    },
+    "options_userfilter": {
+        "message": "Уласны фільтр"
+    },
+    "filtering_log_in_whitelist": {
+        "message": "У белым спісе"
+    },
+    "options_antibanner": {
+        "message": "Блакавальнік рэкламы"
+    },
+    "options_antibanner_info": {
+        "message": "Колькасць правіл фільтрацыі: $$1"
+    },
+    "options_filter_version": {
+        "message": "Версія $1. Абноўлена $2 у $3."
+    },
+    "popup_site_filtering_state": {
+        "message": "Фільтрацыя на гэтым сайце"
+    },
+    "popup_site_filtering_disabled": {
+        "message": "AdGuard не&nbsp;працуе на&nbsp;гэтым дамене"
+    },
+    "popup_site_exception": {
+        "message": "Сайт знаходзіцца ў&nbsp;вынятках"
+    },
+    "popup_site_exception_info": {
+        "message": "На&nbsp;гэтым сайце фільтрацыя адключана, бо яна можа замінаць яго працы."
+    },
+    "popup_tab_blocked": {
+        "message": "Заблакавана: $1"
+    },
+    "popup_tab_blocked_all": {
+        "message": "Усяго: $$1"
+    },
+    "sb_malware_site": {
+        "message": "Сайт&nbsp;<strong>$1</strong>, магчыма, утрымлівае шкоднае ПА. Ваш кампутар можа падвергнуцца віруснай атацы пры наведанні гэтага сайта."
+    },
+    "sb_phishing_site": {
+        "message": "Сайт&nbsp;<strong>$1</strong>, магчыма, з'яўляецца фішынгавым сайтам. Вы&nbsp;можаце стаць ахвярай махлярства пры наведанні гэтага сайта."
+    },
+    "thankyou_want_full_protection": {
+        "message": "Хочаце поўную абарону? Спампуйце поўную версію AdGuard for Windows!"
+    },
+    "thankyou_want_full_protection_mac": {
+        "message": "Хочаце поўную абарону? Спампуйце AdGuard для Mac!"
+    },
+    "thankyou_compare_full_title": {
+        "message": "AdGuard для Windows"
+    },
+    "thankyou_compare_full_title_mac": {
+        "message": "AdGuard для Mac"
+    },
+    "options_popup_update_not_found": {
+        "message": "Абнаўленняў не знойдзена"
+    },
+    "options_popup_update_error": {
+        "message": "Не атрымалася выканаць абнаўленне. Калі ласка паспрабуйце пазней."
+    },
+    "popup_block_site_ads": {
+        "message": "Заблакаваць рэкламу на сайце"
+    },
+    "popup_security_report": {
+        "message": "Справаздача пра бяспеку сайта"
+    },
+    "popup_open_settings": {
+        "message": "Наладзіць AdGuard"
+    },
+    "popup_site_protection_disabled": {
+        "message": "Абарона AdGuard прыпынена"
+    },
+    "popup_block_site_ads_android": {
+        "message": "Заблакаваць рэкламу"
+    },
+    "popup_security_report_android": {
+        "message": "Справаздача пра бяспеку"
+    },
+    "popup_in_white_list_android": {
+        "message": "Сайт у белым спісе"
+    },
+    "popup_site_protection_disabled_android": {
+        "message": "Абарона прыпынена"
+    },
+    "popup_open_log_android": {
+        "message": "Журнал фільтрацыі"
+    },
+    "context_block_site_ads": {
+        "message": "Заблакаваць рэкламу на сайце..."
+    },
+    "context_block_site_element": {
+        "message": "Заблакаваць элемент..."
+    },
+    "context_security_report": {
+        "message": "Справаздача пра бяспеку сайта"
+    },
+    "context_ads_has_been_removed": {
+        "message": "Рэклама на гэтай старонцы выдалена"
+    },
+    "context_ads_has_been_removed_by_adguard": {
+        "message": "Працуе $1"
+    },
+    "context_site_filtering_disabled": {
+        "message": "AdGuard не працуе на гэтым дамене"
+    },
+    "context_disable_protection": {
+        "message": "Прыпыніць абарону AdGuard"
+    },
+    "context_enable_protection": {
+        "message": "Аднавіць абарону AdGuard"
+    },
+    "context_site_protection_disabled": {
+        "message": "Абарона AdGuard прыпынена"
+    },
+    "context_open_settings": {
+        "message": "Наладзіць AdGuard..."
+    },
+    "context_open_log": {
+        "message": "Журнал фільтрацыі..."
+    },
+    "context_site_exception": {
+        "message": "Сайт знаходзіцца ў вынятках"
+    },
+    "context_site_filtering_on": {
+        "message": "Уключыць фільтрацыю на гэтым сайце"
+    },
+    "context_site_filtering_off": {
+        "message": "Адключыць фільтрацыю на гэтым сайце"
+    },
+    "context_update_antibanner_filters": {
+        "message": "Праверыць абнаўленні фільтраў"
+    },
+    "context_general_settings": {
+        "message": "Агульныя налады"
+    },
+    "context_antibanner": {
+        "message": "Блакаванне банераў"
+    },
+    "context_safebrowsing": {
+        "message": "Browsing Security"
+    },
+    "context_whitelist": {
+        "message": "Белы спіс"
+    },
+    "context_userfilter": {
+        "message": "Карыстальніцкі фільтр"
+    },
+    "context_miscellaneous_settings": {
+        "message": "Рознае"
+    },
+    "alert_popup_filter_enabled_title": {
+        "message": "Аўтаматычнае падключэнне фільтра"
+    },
+    "alert_popup_filter_enabled_text": {
+        "message": "«$1» быў уключаны аўтаматычна"
+    },
+    "filter_download_title": {
+        "message": "Загрузка фільтраў..."
+    },
+    "filter_download_loading": {
+        "message": "Калі ласка, пачакайце ідзе загрузка фільтраў."
+    },
+    "filter_download_do_you_know": {
+        "message": "А вы ведалі?"
+    },
+    "filter_download_sb_sites": {
+        "message": "У&nbsp;базе фішынгавых і&nbsp;шкодных сайтаў AdGuard<br/>утрымваецца больш за мільён сайтаў."
+    },
+    "filter_download_rules": {
+        "message": "У&nbsp;сярэднім мы&nbsp;дадаем у&nbsp;рэкламныя фільтры больш<br/>за 100 новых правіл у&nbsp;тыдзень."
+    },
+    "filter_download_ads_malware": {
+        "message": "90% вірусаў і&nbsp;шкодных праграм шырацца<br/>нядобрасумленнымі рэкламнымі сеткамі."
+    },
+    "filtering_modal_element": {
+        "message": "Элемент:"
+    },
+    "filtering_modal_important": {
+        "message": "Усталяваць для правіла найвышэйшы прыярытэт"
+    },
+    "filtering_log_title": {
+        "message": "Журнал фільтрацыі"
+    },
+    "filtering_log_tab": {
+        "message": "Укладка:"
+    },
+    "filtering_log_search_string": {
+        "message": "Увядзіце радок пошуку"
+    },
+    "filtering_refresh_tab": {
+        "message": "Абнавіць старонку"
+    },
+    "filtering_clear_tab_events": {
+        "message": "Ачысціць"
+    },
+    "filtering_type_all": {
+        "message": "Усе"
+    },
+    "filtering_table_type": {
+        "message": "Тып"
+    },
+    "filtering_table_rule": {
+        "message": "Правіла фільтрацыі"
+    },
+    "filtering_table_source": {
+        "message": "Крыніца"
+    },
+    "filtering_table_filter": {
+        "message": "Фільтр"
+    },
+    "filtering_modal_info_title": {
+        "message": "Інфармацыя пра запыт"
+    },
+    "filtering_modal_type": {
+        "message": "Тып:"
+    },
+    "filtering_modal_source": {
+        "message": "Крыніца:"
+    },
+    "filtering_modal_rule": {
+        "message": "Правіла:"
+    },
+    "filtering_modal_filter": {
+        "message": "Фільтр:"
+    },
+    "filtering_modal_block": {
+        "message": "Заблакаваць"
+    },
+    "filtering_modal_unblock": {
+        "message": "Разблакаваць"
+    },
+    "filtering_modal_remove_user": {
+        "message": "Выдаліць з карыстальніцкага фільтра"
+    },
+    "filtering_modal_remove_whitelist": {
+        "message": "Выдаліць з белага спіса"
+    },
+    "filtering_modal_add_title": {
+        "message": "Даданне правіла"
+    },
+    "filtering_modal_rule_text": {
+        "message": "Тэкст правіла"
+    },
+    "filtering_modal_patterns": {
+        "message": "Шаблоны"
+    },
+    "filtering_modal_options": {
+        "message": "Опцыі"
+    },
+    "filtering_modal_apply_domains": {
+        "message": "Ужыць правіла для ўсіх сайтаў"
+    },
+    "filtering_modal_match_case": {
+        "message": "Улічваць рэгістр знакаў"
+    },
+    "filtering_modal_third_party": {
+        "message": "Ужыць толькі да пабочных запытаў"
+    },
+    "filtering_modal_add_rule": {
+        "message": "Дадаць правіла"
+    },
+    "filtering_modal_exception_title": {
+        "message": "Даданне вынятку"
+    },
+    "filtering_modal_open_in_new_tab": {
+        "message": "Адкрыць у новай укладцы"
+    },
+    "options_settings": {
+        "message": "Налады AdGuard"
+    },
+    "options_general_settings": {
+        "message": "Агульныя налады"
+    },
+    "options_allow_acceptable_ads": {
+        "message": "Дазволіць пошукавую рэкламу і ўласныя прома-акцыі сайтаў<a target='_blank' href='https://kb.adguard.com/general/search-ads-and-self-promotion?utm_source=extension&aid=16593' class='sp-table-row-info'>Даведацца пра&nbsp;гэта дэталёвей</a>"
+    },
+    "options_show_blocked_ads_count": {
+        "message": "Паказваць колькасць заблакаванай рэкламы на&nbsp;іконцы AdGuard"
+    },
+    "options_enable_autodetect_filter": {
+        "message": "Аўтаматычна падключаць найболей прыдатныя фільтры"
+    },
+    "options_update_antibanner_filters": {
+        "message": "Праверыць абнаўленні фільтраў"
+    },
+    "options_too_many_filters_selected": {
+        "message": "Вы&nbsp;абралі зашмат фільтраў. Гэта можа значна запаволіць хуткасць загрузкі сайтаў."
+    },
+    "options_userfilter_export": {
+        "message": "Экспарт"
+    },
+    "options_userfilter_import": {
+        "message": "Імпарт"
+    },
+    "options_whitelist_description": {
+        "message": "AdGuard не&nbsp;працуе на&nbsp;сайтах, дададзеных у&nbsp;белы спіс."
+    },
+    "options_whitelist_inverse": {
+        "message": "Інвертаваць белы спіс<span class='sp-table-row-info'>Разблакаваць рэкламу <i>усюды</i>, акрамя белага спіса</span>"
+    },
+    "options_userfilter_description": {
+        "message": "Вы&nbsp;можаце дадаваць свае ўласныя правілы фільтрацыі з&nbsp;дапамогай гэтага фільтра. Рэкамендуецца толькі для дасведчаных карыстальнікаў, знаёмых з&nbsp;HTML/CSS. Перайдзіце па&nbsp;<a class='spl-user-descr-link' href='https://adguard.com/filterrules.html?utm_source=extension&aid=16593' target='_blank'>спасылцы</a> каб даведацца, як складаць правілы фільтрацыі."
+    },
+    "options_open_changelog": {
+        "message": "Спіс змен"
+    },
+    "options_safebrowsing": {
+        "message": "Бяспека ў браўзэры"
+    },
+    "options_safebrowsing_enabled": {
+        "message": "Абарона ад&nbsp;фішынгавых і&nbsp;шкодных сайтаў<a target='_blank' href='https://kb.adguard.com/general/how-malware-protection-works?utm_source=extension&aid=16593' class='sp-table-row-info'>Даведацца пра&nbsp;гэта дэталёвей</a>"
+    },
+    "options_safebrowsing_help": {
+        "message": "Дапамагаць у&nbsp;развіцці антыфішынгу<span class='sp-table-row-info'>Адпраўляць ананімную статыстыку пра&nbsp;падазроных сайтах</span>"
+    },
+    "options_site": {
+        "message": "Афіцыйны сайт"
+    },
+    "options_do_you_like": {
+        "message": "Падабаецца AdGuard?"
+    },
+    "options_footer_like_us": {
+        "message": "Пастаў нам ацэнку"
+    },
+    "options_miscellaneous_settings": {
+        "message": "Рознае"
+    },
+    "options_show_adguard_full_version": {
+        "message": "Паказваць інфармацыю аб&nbsp;поўнай версіі AdGuard"
+    },
+    "options_open_log": {
+        "message": "Журнал фільтрацыі"
+    },
+    "options_reset_stats": {
+        "message": "Скінуць статыстыку"
+    },
+    "options_reset_stats_done": {
+        "message": "Статыстыка абнулена"
+    },
+    "options_collect_hit_stats": {
+        "message": "Адпраўляць статыстыку выкарыстоўвання фільтраў<a target='_blank' href='https://kb.adguard.com/general/filter-rules-statistics?utm_source=extension&aid=16593' class='sp-table-row-info'>Даведацца пра&nbsp;гэта дэталёвей</a>"
+    },
+    "options_show_context_menu": {
+        "message": "Дадаць AdGuard у&nbsp;кантэкставае меню браўзара"
+    },
+    "options_use_optimized_filters": {
+        "message": "Использовать оптимизированные фильтры<span class='sp-table-row-info'>Списки фильтров, оптимизированных для мобильных устройств</span> "
+    },
+    "popup_abuse_site": {
+        "message": "Паскардзіцца на&nbsp;гэты сайт"
+    },
+    "popup_adguard_footer_integration": {
+        "message": "AdGuard працуе ў <a href='http://adguard.com/adguard-adblock-browser-extension/integration-mode.html#integration-mode' class='openLink' target='_blank'>рэжыме інтэграцыі</a>"
+    },
+    "sb_title": {
+        "message": "Увага! Выяўлена пагроза!"
+    },
+    "sb_main_title": {
+        "message": "Увага! Сайт уяўляе пагрозу!"
+    },
+    "sb_adguard_blocked": {
+        "message": "AdGuard заблакаваў доступ да&nbsp;гэтай старонцы"
+    },
+    "sb_malware_description": {
+        "message": "AdGuard выявіў, што на&nbsp;ваш кампутар могуць быць усталяваны шкодныя праграмы, калі вы&nbsp;працягнеце прагляд гэтага сайта. Калі вы&nbsp;наведвалі яго ў&nbsp;мінулым ці давяраеце яму, цалкам магчыма, што ён&nbsp;нядаўна быў узламаны хакерамі. Рэкамендуецца спыніць прагляд і&nbsp;наведаць сайт заўтра, або перайсці на&nbsp;іншы сайт."
+    },
+    "sb_phishing_description": {
+        "message": "AdGuard выявіў, што сайт, на&nbsp;які вы&nbsp;спрабуеце зайсці, магчыма, з'яўляецца фішынгавым. Гэта азначае, што ён&nbsp;створаны з&nbsp;мэтай падманам атрымаць асабістую ці фінансавую інфармацыю пра&nbsp;карыстача. Увод ўсякай асабістай інфармацыі на&nbsp;такім сайце небяспечны і&nbsp;можа прывесці да&nbsp;непажаданым наступствам."
+    },
+    "sb_go_back": {
+        "message": "Вярнуцца назад"
+    },
+    "sb_site_report": {
+        "message": "Дэталёвая справаздача"
+    },
+    "sb_goto_site": {
+        "message": "Я разумею рызыку, перайсці на сайт"
+    },
+    "short_name": {
+        "message": "AdGuard Антыбанар"
+    },
+    "options_github": {
+        "message": "GitHub"
+    }
+}
